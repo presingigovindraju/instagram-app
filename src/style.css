@@ -1,0 +1,9 @@
+.logOutButton{
+    display: flex;
+    justify-content: flex-end;
+}
+.toDelete{
+    display: none;
+}
+
+
